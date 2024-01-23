@@ -11,4 +11,7 @@ def safe_print_list(my_list=[], x=0):
             total += 1
         except IndexError:
             print("Error. Please, Try again")
-        return total
+
+        i += 1
+    print()
+    return total
