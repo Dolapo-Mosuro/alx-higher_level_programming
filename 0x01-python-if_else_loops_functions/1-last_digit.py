@@ -2,9 +2,7 @@
 import random
 number = random.randint(-10000, 10000)
 
-if last_digit = abs(number) % -10
-
-else last_digit = abs(number) % 10
+last_digit = abs(number) % 10
 
 if last_digit == 0:
     out_put = "and is 0"
