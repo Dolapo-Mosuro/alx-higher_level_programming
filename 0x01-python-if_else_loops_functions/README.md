@@ -1,4 +1,5 @@
 # Python - if/else, loops, functions
+<<<<<<< HEAD
 
 In this project, I began utilizing conditionals and loops in Python by using `if`,
 `if ... else`, `break`, `continue`, `pass`, and `range` statements with `while` and
@@ -142,3 +143,5 @@ Prototypes for functions written in this project:
 * **16. ByteCode -> Python #2**
   * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
   bytecode.
+=======
+>>>>>>> bda00abe17b898a4383bb8c45a40dea1d7eee93e

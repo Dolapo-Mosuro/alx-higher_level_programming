@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 python3 -m compileall -b $PYFILE i
+=======
+python3 -m compileall -b "$PYFILE"
+>>>>>>> bda00abe17b898a4383bb8c45a40dea1d7eee93e
